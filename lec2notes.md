@@ -50,4 +50,4 @@
 - Linear classifier constrained by learning only a single template per category
 - Linear classifier struggles to separate odd from even, multimodal (islands of different things in pixel space that can't be split cleanly
 ## Next time
-- Loss functions and optimization)
+- Loss functions and optimization
